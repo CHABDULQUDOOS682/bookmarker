@@ -1,0 +1,2 @@
+class AppBookmark < ApplicationRecord
+end
